@@ -4,7 +4,7 @@ let etapas = [
         numeros: 5,
         candidatos: [
             {
-                numero: 38111,
+                numero: '38111',
                 name: "Tea Gardner",
                 partido: "CDC",
                 fotos: [
@@ -12,7 +12,7 @@ let etapas = [
                 ]
             },
             {
-                numero: 72222,
+                numero: '72222',
                 name: "joey Rian",
                 partido: "MBM",
                 fotos: [
@@ -20,7 +20,7 @@ let etapas = [
                 ]
             },
             {
-                numero: 66699,
+                numero: '66699',
                 name: "Seto Kaiba",
                 partido: "MFDP",
                 fotos: [
@@ -28,7 +28,7 @@ let etapas = [
                 ]
             },
             {
-                numero: 66611,
+                numero: '66611',
                 name: "Mai Valentine",
                 partido: "MFDP",
                 fotos: [
@@ -42,7 +42,7 @@ let etapas = [
         numeros: 2,
         candidatos:[
             {
-                numero: 38,
+                numero: '38',
                 name: "Yugi Moto",
                 partido: "CDC",
                 vice: 'Rio Bakura',
@@ -52,7 +52,7 @@ let etapas = [
                 ]
             },
             {
-                numero: 45,
+                numero: '45',
                 name: "Jaden Yuki",
                 partido: "PDL",
                 vice: 'Jesse Andersen',
