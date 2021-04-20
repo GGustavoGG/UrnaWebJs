@@ -8,13 +8,13 @@ Nesse projeto foi construido uma versão da urna eleitoral brasileira,  onde foi
 
 A interface é intuitiva, onde é necessario apenas colocar o número do seu canddiato e após aparecer a foto do mesmo no canto direito, apenas clique em confirmas
 
-#### Interface quando possui apenas uma foto 
+#### Interface quando ainda não foi digitado o número
 <img src="imgReadme/foto1.jpg">
 
-#### Interface quando possui duas fotos
+#### Interface quando possui apenas  uma foto
 <img src="imgReadme/foto2.jpg">
 
-#### Interface quando o programa chega ao fim
+#### Interface quando  possui duas fotos
 <img src="imgReadme/foto3.jpg">
 
 ### Como funciona?
